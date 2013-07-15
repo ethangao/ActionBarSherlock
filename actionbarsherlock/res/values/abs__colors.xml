@@ -21,4 +21,7 @@
     <color name="abs__bright_foreground_holo_light">@color/abs__background_holo_dark</color>
     <color name="abs__bright_foreground_disabled_holo_dark">#ff4c4c4c</color>
     <color name="abs__bright_foreground_disabled_holo_light">#ffb2b2b2</color>
+
+    <color name="abs__dropdown_list_user_item_bg_n">#dfdfdf</color>
+    <color name="abs__dropdown_list_user_item_bg_p">#bfbfbf</color>
 </resources>

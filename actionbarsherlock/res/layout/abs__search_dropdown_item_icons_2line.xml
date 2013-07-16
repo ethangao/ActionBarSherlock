@@ -34,7 +34,8 @@
                android:layout_alignParentLeft="true"
                android:layout_alignParentTop="true"
                android:layout_alignParentBottom="true"
-               android:layout_marginRight="20dp"
+               android:layout_marginLeft="10dp"
+               android:layout_marginRight="5dp"
                android:visibility="invisible" />
 
     <ImageView android:id="@+id/edit_query"
@@ -65,7 +66,7 @@
               style="?android:attr/dropDownItemStyle"
               android:textAppearance="?attr/textAppearanceSearchResultSubtitle"
               android:singleLine="true"
-              android:textColor="@android:color/black"
+              android:textColor="#bfbfbf"
               android:layout_width="match_parent"
               android:layout_height="29dip"
               android:paddingBottom="4dip"
@@ -81,7 +82,7 @@
     <TextView android:id="@android:id/text1"
               style="?android:attr/dropDownItemStyle"
               android:textAppearance="?attr/textAppearanceSearchResultTitle"
-              android:textColor="@android:color/black"
+              android:textColor="#efefef"
               android:singleLine="true"
               android:layout_width="wrap_content"
               android:layout_height="wrap_content"

@@ -38,7 +38,7 @@
 
 
     <!-- Text padding for dropdown items -->
-    <dimen name="abs__dropdownitem_text_padding_left">20dip</dimen>
+    <dimen name="abs__dropdownitem_text_padding_left">0dip</dimen>
 
     <!-- Text padding for dropdown items -->
     <dimen name="abs__dropdownitem_text_padding_right">8dip</dimen>
